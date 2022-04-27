@@ -1,4 +1,4 @@
-# data-tools-inventory
+# Inventory of tools and data used and/or produced/designed in MEOM team
 
 
 - Dynamical models
