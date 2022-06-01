@@ -35,7 +35,7 @@
   * [Timeseries](visualization-tools/timeseries.md)
   * [Images](visualization-tools/images.md)
 
-## [Data inventory](data-inventory/README.md)
+## Data inventory
   * [In situ observations](observations/in-situ-data.md)
   * [Satellite observations](observations/satellite-data.md)
   * [Model input and forcing data](dynamical-models/model-input-forcing-data.md)
