@@ -25,3 +25,15 @@ Sea Ice modelling Integrated Initiative (SI3) is the NEMO sea ice engine ...
 
 </details>
 
+<details>
+  <summary> <a href="https://tc.copernicus.org/articles/10/1055/2016/tc-10-1055-2016.pdf"> neXtSIM </a> </summary>
+  
+neXtSIM is a fully Lagrangian dynamical/thermodynamical sea ice model developped at NERSC, Norway
+
+</details>
+
+
+<details>
+  <summary> <a href="https://nextsim-dg.readthedocs.io/en/latest/?badge=latest"> neXtSIM_DG </a> </summary>
+  
+neXtSIM_DG is the Eulerian version of the neXtSIM model, using the discontinuous Galerkin method (DG) for advection, instead of the Lagrangian scheme. It is cuurently in development in the framework of [SASIP](https://sasip-climate.github.io/)
