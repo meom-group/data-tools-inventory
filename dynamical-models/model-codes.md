@@ -16,3 +16,12 @@ DCM is supporting historical NEMO versions (since NEMO 1.12). The actual version
 
 </details>
 
+## Ice models
+
+<details>
+  <summary> <a href="https://forge.ipsl.jussieu.fr/nemo/chrome/site/doc/SI3/manual/pdf/SI3_manual.pdf"> SI3 </a> </summary>
+  
+Sea Ice modelling Integrated Initiative (SI3) is the NEMO sea ice engine ...
+
+</details>
+
