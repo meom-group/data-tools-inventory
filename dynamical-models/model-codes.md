@@ -3,7 +3,7 @@
 ## Ocean models
 
 <details>
-  <summary>[NEMO OGCM](https://www.nemo-ocean.eu/) </summary>
+  <summary> [NEMO OGCM](https://www.nemo-ocean.eu/) </summary>
   
 NEMO is a primitive equation model designed for performing oceanic general circulation simulations. It includes a sea ice component (SI3), a passive tracer component (TOP) 
 interfaced with bio-geochemical models (PISCES) and other passive tracer models (CFC11, CO2, etc...). Adaptative mesh refinement is available in NEMO through the AGRIF package.
@@ -16,6 +16,3 @@ DCM is supporting historical NEMO versions (since NEMO 1.12). The actual version
 
 </details>
 
-
-- 
-  
