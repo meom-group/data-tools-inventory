@@ -25,7 +25,7 @@ NEMO also includes a sea ice component (SI3), a passive tracer component (TOP) i
 ## Ice models
 
 <details>
-  <summary> <a href="https://forge.ipsl.jussieu.fr/nemo/chrome/site/doc/SI3/manual/pdf/SI3_manual.pdf"> Sea Ice modelling Integrated Initiative (SI3) </a> is the NEMO sea ice engine and is intended to be a flexible tool for studying the sea ice dynamics and thermodynamics, as well as its interactions with the other components of the Earth climate system over a wide range of space and time scales.</summary>
+  <summary> <a href="https://forge.ipsl.jussieu.fr/nemo/chrome/site/doc/SI3/manual/pdf/SI3_manual.pdf"> Sea Ice modelling Integrated Initiative (SI3) </a> is a flexible tool for studying the sea ice dynamics and thermodynamics, as well as its interactions with the other components of the Earth climate system over a wide range of space and time scales.</summary>
   
 Designed for global to regional applications up to 10 km of effective resolution, SI3 is a curvilinear grid, finite-difference implementation of the classical AIDJEX model (Arctic Ice Dynamics Joint EXperiment), combining the conservation of momentum for viscous-plastic continuum, energy and salt-conserving halo-thermodynamics, an explicit representation of subgrid-scale ice thickness variations, snow and melt ponds. An option to switch back to the single-category (or 2-level) framework provides a cheap sea ice modelling solution.
 
