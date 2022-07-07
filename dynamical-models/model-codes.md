@@ -10,7 +10,7 @@ The NEMO ocean model has 3 major components: NEMO-OCE models the ocean {thermo}d
   
   
   
-Go to the [Ocean Models](#ocean-models) and the [sea-ice](#sea-ice-models) sections to have more details about NEMO-OCE and SI3
+Go to the [Ocean models](#ocean-models) and the [Sea ice models](#sea-ice-models) sections to have more details about NEMO-OCE and SI3
 
   
   
@@ -22,7 +22,7 @@ Go to the [Ocean Models](#ocean-models) and the [sea-ice](#sea-ice-models) secti
   <summary> <a href="https://zenodo.org/record/6334656#.YsbRaOxByBQ"> NEMO ocean engine </a> is a primitive equation model designed for performing oceanic general circulation simulations. </summary>
 
   
-  
+<hr style="border:2px solid gray">  
 This primitive equation model is adapted to regional and global ocean circulation problems down to kilometric scale. Prognostic variables are the three-dimensional velocity field, a non-linear sea surface height, the Conservative Temperature and the Absolute Salinity. In the horizontal direction, the model uses a curvilinear orthogonal grid and in the vertical direction, a full or partial step z-coordinate, or s-coordinate, or a mixture of the two. The distribution of variables is a three-dimensional Arakawa C-type grid. Various physical choices are available to describe ocean physics, so as various HPC functionalities to improve performances.
   
   
