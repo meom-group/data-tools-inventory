@@ -1,7 +1,8 @@
 # Model configurations
 
 <details>
-  <summary> NEMO based configurations are described in dedicated [meom-configuration repository](https://github.com/meom-configurations) on GitHub.  </summary>
+  <summary> NEMO based configurations are described in dedicated <a href="https://github.com/meom-configurations"> meom-configuration repository </a> on GitHub.  </summary>
+  
 Using the information found there, one should be able to reconstruct a particular configuration. However, as far as fortran compilers may evolve 
 in time, the exact reproducibility is not granted.   
 In the meom-configuration repository, the following information can be found for each configuration:
