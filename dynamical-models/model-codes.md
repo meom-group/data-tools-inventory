@@ -17,7 +17,7 @@ Go to the [Ocean models](#ocean-models) and the [Sea ice models](#sea-ice-models
 ## Ocean models
 
 <details>
-  <summary><strong> <a href="https://zenodo.org/record/6334656#.YsbRaOxByBQ"> NEMO ocean engine </a> is a primitive equation model designed for performing oceanic general circulation simulations. </summary>
+  <summary><strong> <a href="https://zenodo.org/record/6334656#.YsbRaOxByBQ"> NEMO ocean engine </a> is a primitive equation model designed for performing oceanic general circulation simulations.</strong> </summary>
 
   
 <hr style="border:2px solid gray">  
@@ -32,7 +32,7 @@ NEMO also includes a sea ice component (SI3), a passive tracer component (TOP) i
 ## Sea ice models
 
 <details>
-  <summary><strong> <a href="https://forge.ipsl.jussieu.fr/nemo/chrome/site/doc/SI3/manual/pdf/SI3_manual.pdf"> Sea Ice modelling Integrated Initiative (SI3) </a> is a flexible tool for studying the sea ice dynamics and thermodynamics, as well as its interactions with the other components of the Earth climate system over a wide range of space and time scales.</summary>
+  <summary><strong> <a href="https://forge.ipsl.jussieu.fr/nemo/chrome/site/doc/SI3/manual/pdf/SI3_manual.pdf"> Sea Ice modelling Integrated Initiative (SI3) </a> is a flexible tool for studying the sea ice dynamics and thermodynamics, as well as its interactions with the other components of the Earth climate system over a wide range of space and time scales.</strong></summary>
   
   
   
@@ -43,7 +43,7 @@ Designed for global to regional applications up to 10 km of effective resolution
 </details>
 
 <details>
-  <summary><strong> <a href="https://tc.copernicus.org/articles/10/1055/2016/tc-10-1055-2016.pdf"> neXtSIM </a> is a fully Lagrangian dynamical/thermodynamical sea ice model developped at NERSC, Norway </summary>
+  <summary><strong> <a href="https://tc.copernicus.org/articles/10/1055/2016/tc-10-1055-2016.pdf"> neXtSIM </a> is a fully Lagrangian dynamical/thermodynamical sea ice model developped at NERSC, Norway </strong></summary>
   
   
   
@@ -51,7 +51,7 @@ Designed for global to regional applications up to 10 km of effective resolution
 
 
 <details>
-  <summary><strong> <a href="https://nextsim-dg.readthedocs.io/en/latest/?badge=latest"> neXtSIM_DG </a> is the Eulerian version of the neXtSIM model, using the discontinuous Galerkin method (DG) for advection, instead of the Lagrangian scheme.</summary>
+  <summary><strong> <a href="https://nextsim-dg.readthedocs.io/en/latest/?badge=latest"> neXtSIM_DG </a> is the Eulerian version of the neXtSIM model, using the discontinuous Galerkin method (DG) for advection, instead of the Lagrangian scheme.</strong></summary>
   
   
   
