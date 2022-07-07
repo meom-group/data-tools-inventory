@@ -7,7 +7,7 @@
 
 The NEMO ocean model has 3 major components: NEMO-OCE models the ocean {thermo}dynamics and solves the primitive equations NEMO-ICE (SI3: Sea-Ice Integrated Initiative) models sea-ice {thermo}dynamics, brine inclusions and subgrid-scale thickness variations and NEMO-TOP (Tracers in the Ocean Paradigm) models the {on,off}line oceanic tracers transport and biogeochemical processes.
   
-Go to the #ocean-models and the #ice-models sections to have more details about NEMO-OCE and SI3
+Go to the [Ocean Models](#ocean-models) and the [sea-ice](#sea-ice-models) sections to have more details about NEMO-OCE and SI3
 
 </details>
 
@@ -22,7 +22,7 @@ NEMO also includes a sea ice component (SI3), a passive tracer component (TOP) i
 
 </details>
 
-## Ice models
+## Sea ice models
 
 <details>
   <summary> <a href="https://forge.ipsl.jussieu.fr/nemo/chrome/site/doc/SI3/manual/pdf/SI3_manual.pdf"> Sea Ice modelling Integrated Initiative (SI3) </a> is a flexible tool for studying the sea ice dynamics and thermodynamics, as well as its interactions with the other components of the Earth climate system over a wide range of space and time scales.</summary>
