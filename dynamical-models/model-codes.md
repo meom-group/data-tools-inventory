@@ -55,9 +55,9 @@ Designed for global to regional applications up to 10 km of effective resolution
  
 <hr style="border:1px solid blue">  
   
- neXtSIM exhibits a strong capacity for short-term sea ice forecasting at Pan-Arctic scales 6 . neXtSIM was developed to explore the role of sea-ice mechanics and dynamics in determining the large-scale behaviour of Arctic sea ice. As such, it has served as a testing and development ground for the brittle sea-ice rheologies developed over the past decade.
+neXtSIM was developed to explore the role of sea-ice mechanics and dynamics in determining the large-scale behaviour of Arctic sea ice and exhibits a strong capacity for short-term sea ice forecasting at Pan-Arctic scales. As such, it has served as a testing and development ground for the brittle sea-ice rheologies developed over the past decade.
   
- In MEOM team, neXtSIM is coupled to the NEMO ocean engine or in a standalone mode.
+ In MEOM team, neXtSIM is coupled to the NEMO ocean engine or is run in a standalone development mode to improve forecast.
   
 <hr style="border:1px solid blue">  
   
