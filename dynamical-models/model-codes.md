@@ -12,9 +12,13 @@
 The NEMO ocean model has 3 major components: NEMO-OCE models the ocean {thermo}dynamics and solves the primitive equations NEMO-ICE (SI3: Sea-Ice Integrated Initiative) models sea-ice {thermo}dynamics, brine inclusions and subgrid-scale thickness variations and NEMO-TOP (Tracers in the Ocean Paradigm) models the {on,off}line oceanic tracers transport and biogeochemical processes.
     
   
-Go to the [Ocean models](#ocean-models) and the [Sea ice models](#sea-ice-models) sections to have more details about NEMO-OCE and SI3
+Go to the [Ocean models](#ocean-models), the [Sea ice models](#sea-ice-models) and the [Biogeochemical models](#biogeochemical-models) sections to have more details about NEMO-OCE, SI3 and PISCES
 
-In the MEOM team, this modelling framework is widely used for realistic global or regional [configurations](https://github.com/meom-group/data-tools-inventory/blob/main/dynamical-models/model-configurations.md)   
+In the MEOM team, this modelling framework is widely used for :
+  * realistic global or regional simulations of the ocean and the sea-ice,   
+  * stochastic ensemble runs of ocean, sea-ice and biogechestry
+  
+Got to [the configuration information page](https://github.com/meom-group/data-tools-inventory/blob/main/dynamical-models/model-configurations.md) for a description of the scripts needed to run NEMO and to the [the simulation data page](https://github.com/meom-group/data-tools-inventory/blob/main/dynamical-models/simulation-data.md) for informations on where to find and how to build configuration files.
   
 <hr style="border:1px solid blue">  
 </details>
