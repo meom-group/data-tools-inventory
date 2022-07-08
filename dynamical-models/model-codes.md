@@ -79,3 +79,34 @@ It is the marine biogeochemistry component of two ocean modeling platforms (NEMO
     
 <hr style="border:1px solid blue">  
 </details>
+
+## External modules
+
+
+<details>
+  <summary><strong> <a href="https://forge.ipsl.jussieu.fr/ioserver"> XIOS </a> </strong></summary>
+ 
+<hr style="border:1px solid blue">  
+
+    
+<hr style="border:1px solid blue">  
+</details>
+
+<details>
+  <summary><strong> <a href="https://oasis.cerfacs.fr/en/"> OASIS </a> </strong></summary>
+ 
+<hr style="border:1px solid blue">  
+
+    
+<hr style="border:1px solid blue">  
+</details>
+
+
+<details>
+  <summary><strong> <a href="http://agrif.imag.fr/"> AGRIF </a> </strong></summary>
+ 
+<hr style="border:1px solid blue">  
+
+    
+<hr style="border:1px solid blue">  
+</details>
