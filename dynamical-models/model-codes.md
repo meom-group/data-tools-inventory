@@ -1,5 +1,7 @@
 # Model codes
 
+*click on the arrows to have more informations*
+
 ## Modelling framework
 
 <details>
@@ -61,3 +63,14 @@ It is cuurently in development in the framework of [SASIP](https://sasip-climate
 <hr style="border:1px solid blue">  
 </details>
 
+## Biogeochemical models
+
+<details>
+  <summary><strong> <a href="[https://forge.ipsl.jussieu.fr/nemo/chrome/site/doc/SI3/manual/pdf/SI3_manual.pdf](https://gmd.copernicus.org/articles/8/2465/2015/gmd-8-2465-2015.pdf)"> PISCES </a> s a biogeochemical model that simulates marine biological productivity and describes the biogeochemical cycles of carbon and of the main nutrients (P, N, Si, Fe). </strong></summary>
+ 
+<hr style="border:1px solid blue">  
+
+It is the marine biogeochemistry component of two ocean modeling platforms (NEMO and CROCO), three Earth System models (IPSL-CM, CNRM-CM and EC-Earth) and one operational oceanographic system (MERCATOR-Ocean).
+    
+<hr style="border:1px solid blue">  
+</details>
