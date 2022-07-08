@@ -114,7 +114,7 @@ When interfaced with the Model Coupling Toolkit (MCT), OASIS3-MCT offers a fully
 
 
 <details>
-  <summary><strong> <a href="http://agrif.imag.fr/"> AGRIF </a> is a Fortran 90 package for the integration of full adaptative mesh refinement (AMR)features within a multidimensional finite differnce model. </strong></summary>
+  <summary><strong> <a href="http://agrif.imag.fr/"> AGRIF </a> is a Fortran 90 package for the integration of full adaptative mesh refinement (AMR) features within a multidimensional finite difference model. </strong></summary>
  
 <hr style="border:1px solid blue">  
 Its main objective is to simplify the integration of these capacities in an existing model with almost no changes in this one. 
