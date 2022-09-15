@@ -9,7 +9,7 @@
 
 <hr style="border:1px solid blue">  
   
-This dataset has been retrieved from Copernicus Marine Service website and is stored on cal1 : ```/mnt/meom/DATA_SET/AVISO-1993-2020/mapped```
+This dataset has been retrieved from Copernicus Marine Service website and is stored on cal1 : ```/mnt/meom/DATA_SET/AVISO-1993-2020/mapped``` and jean-zay ```/gpfsstore/rech/egi/commun/Aviso```
 
 Check the local README and download script files for more details.
 <hr style="border:1px solid blue">  
@@ -20,7 +20,7 @@ Check the local README and download script files for more details.
 
 <hr style="border:1px solid blue">  
   
-This dataset has been retrieved from Copernicus Marine Service website and is stored on cal1 : ```/mnt/meom/DATA_SET/AVISO-1993-2020```
+This dataset has been retrieved from Copernicus Marine Service website and is stored on cal1 : ```/mnt/meom/DATA_SET/AVISO-1993-2020``` and jean-zay ```/gpfsstore/rech/egi/commun/Aviso```
 
 Check the local README and download script files for more details.
 <hr style="border:1px solid blue">  
