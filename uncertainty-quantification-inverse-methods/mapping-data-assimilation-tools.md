@@ -165,3 +165,32 @@ This tool prepares the localization bubbles to be used in the LETKF/SEEK observa
 <hr style="border:1px solid blue">
 </details>
 
+<details>
+  <summary><strong>Generation of random fields, in the <a href="https://github.com/brankart/ensdam">EnsDAM</a> and partly in the <a href="https://github.com/brankart/sesam">SeSAM</a> toolbox.</strong></summary>
+
+<hr style="border:1px solid blue">
+
+This tool is dedicated to the generaton of random numbers, random fields, or stochastic processes of various types, to be used in stochastic modelling or data assimilation systems.  This includes:
+ * the generation of random numbers with various probability distribution (uniform, normal, gamma, beta, exponential, truncated exponential, truncated normal);
+ * the computation of the probabilty density function (pdf), the cumulative distribution function (cdf) or the inverse cdf of several probability distributions (normal, gamma, beta);
+ * the computation of the cdf of the product of two normal random numbers;
+ * the transformation of a normal random variable into a gamma or a beta random variable, and the transformation of the product of two normal random variables into a normal variable;
+ * the generation of random fields with specified spectrum (in 1D, in 2D or in the basis of the spherical harmonics).
+
+<hr style="border:1px solid blue">
+</details>
+
+<details>
+  <summary><strong>Computation of ensemble correlations, in the <a href="https://github.com/brankart/sesam">SeSAM</a> toolbox.</strong></summary>
+
+<hr style="border:1px solid blue">
+
+This tool computes the ensemble correlation with respect to one of the variable.
+
+The input is the ensemble of model state and the index of the reference variable.
+
+The output is a model state vector with the correlation with respect to this reference variable.
+
+<hr style="border:1px solid blue">
+</details>
+
