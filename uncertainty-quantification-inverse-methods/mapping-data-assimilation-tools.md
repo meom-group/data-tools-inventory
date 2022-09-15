@@ -114,7 +114,7 @@ The main parameters controls localization of the ensemble covariance.
 
 <hr style="border:1px solid blue">
 
-This tool compute the spectrum of an input model state in the basis of the spherical harmonics.
+This tool computes the spectrum of an input model state in the basis of the spherical harmonics.
 
 Automatic iteration on 2D slices is applied if the tool is provided with a 3D or 4D state or with an ensemble of states.
 
@@ -130,7 +130,7 @@ The backward transformation reconstruct the model state from the spectrum. Scale
 
 <hr style="border:1px solid blue">
 
-This tool compute the EOF decomposition of an ensemble of model states (in 1D, 2D, 3D or 4D).
+This tool computes the EOF decomposition of an ensemble of model states (in 1D, 2D, 3D or 4D).
 
 The input is an ensemble of model states. The output is the required number of EOFs.
 
