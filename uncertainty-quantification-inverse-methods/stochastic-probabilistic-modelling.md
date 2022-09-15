@@ -3,7 +3,7 @@
 *click on the arrows to have more informations*
 
 <details>
-  <summary><strong>Probabilistic NEMO (with <a href="doi:10.5281/zenodo.61611">NEMOv3.5</a> and <a href="doi:10.5281/zenodo.6303007">NEMOv4.0</a>). This includes additional/modified NEMO modules to perform ensemble simulations (members running in parallel) and to explicitly simulate model uncertainties (with stochastic parameterizations).</strong></summary>
+  <summary><strong>Probabilistic NEMO (with <a href="http://doi.org/10.5281/zenodo.61611">NEMOv3.5</a> and <a href="http://doi.org/10.5281/zenodo.6303007">NEMOv4.0</a>). This includes additional/modified NEMO modules to perform ensemble simulations (members running in parallel) and to explicitly simulate model uncertainties (with stochastic parameterizations).</strong></summary>
 
 <hr style="border:1px solid blue">
 
