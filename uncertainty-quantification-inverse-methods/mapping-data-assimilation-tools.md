@@ -76,7 +76,7 @@ The program can be adjusted to include additional conditions to the posterior pr
 </details>
 
 <details>
-  <summary><strong>Ensemble analysis of altimetric observations, based on the <a href="https://github.com/brankart/ensdam">EnsDAM</a> and <a href="https://github.com/brankart/sesam">SeSAM</a> toolboxes.</strong></summary>
+  <summary><strong>Ensemble analysis of altimetric observations, in the <a href="ensemble-altimetry</a> repository, based on the <a href="https://github.com/brankart/ensdam">EnsDAM</a> and <a href="https://github.com/brankart/sesam">SeSAM</a> toolboxes.</strong></summary>
 
 <hr style="border:1px solid blue">
 
