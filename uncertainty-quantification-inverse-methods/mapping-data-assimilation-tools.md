@@ -75,6 +75,26 @@ The program can be adjusted to include additional conditions to the posterior pr
 <hr style="border:1px solid blue">
 </details>
 
+<details>
+  <summary><strong>Ensemble analysis of altimetric observations, based on the <a href="https://github.com/brankart/ensdam">EnsDAM</a> and <a href="https://github.com/brankart/sesam">SeSAM</a> toolboxes.</strong></summary>
+
+<hr style="border:1px solid blue">
+
+This tool applies the MCMC sampler algorithm (proposed in <a href="https://doi.org/10.3389/fams.2019.00058">Brankart, 2019</a>) to produce an ensemble analysis of altimetric observations.
+
+The tool is a collection of shell scripts to be run successively to obtain the result from the data.
+
+Input data are along-track altimetric data (L3 product) used as observations, and mapped altimetric data (L4 product) used as a climatological prior ensemble.
+
+Output data is a sample of the posterior distribution for the following fields (in 2D + time): absolute dynamic topography, velocity, relative vorticity and material derivative of the potential vorticity.
+
+Probabilistic scores comparing the ensemble solution to independent observations can also be computed.
+
+The main parameters controls the observation error standard deviation and the localization of the ensemble covariance.
+
+<hr style="border:1px solid blue">
+</details>
+
 ## Transformation tools
 
 <details>
