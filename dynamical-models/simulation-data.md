@@ -11,6 +11,7 @@
   * Project: SEAMLESS
   * Storage machine: jean-zay (IDRIS)
   * Directory : /gpfsstore/rech/egi/uzx13pp/Ensembles
+  * Size: 34 To
   * More details in SEAMLESS deliverable 3.4.
 
 <hr style="border:1px solid blue">
@@ -29,6 +30,7 @@
   * Project: IMMERSE
   * Storage machine: jean-zay (IDRIS)
   * Directory : /gpfsstore/rech/egi/commun/MEDWEST60
+  * Size: 75 To
   * More details in <a href="https://doi.org/10.5194/os-2022-11">Leroux et al., 2022</a>
 
 <hr style="border:1px solid blue">
