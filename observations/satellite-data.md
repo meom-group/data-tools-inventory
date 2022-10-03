@@ -14,6 +14,7 @@
   * Directory : /mnt/meom/DATA_SET/AVISO-1993-2020
   * Storage machine: jean-zay (IDRIS)
   * Directory : /gpfsstore/rech/egi/commun/Aviso
+  * Size: 15 Gb
   * Check the local README and download script files for more details.
 
 <hr style="border:1px solid blue">  
@@ -29,6 +30,7 @@
   * Directory : /mnt/meom/DATA_SET/AVISO-1993-2020/mapped
   * Storage machine: jean-zay (IDRIS)
   * Directory : /gpfsstore/rech/egi/commun/Aviso/mapped
+  * Size: 93 Gb
   * Check the local README and download script files for more details.
 
 <hr style="border:1px solid blue">
@@ -41,7 +43,7 @@
 
 <hr style="border:1px solid blue">
 
-  * Source: <a href="https://resources.marine.copernicus.eu/product-detail/OCEANCOLOUR_GLO_CHL_L3_REP_OBSERVATIONS_009_085/INFORMATION">CMEMS catalogue</a>
+  * Source: <a href="https://resources.marine.copernicus.eu/product-detail/OCEANCOLOUR_GLO_CHL_L3_REP_OBSERVATIONS_009_085">CMEMS catalogue</a>
   * Storage machine: jean-zay (IDRIS)
   * Directory : /gpfsstore/rech/egi/uzx13pp/Observations/OCEANCOLOUR_GLO_CHL_L3_REP_OBSERVATIONS_009_085
   * Size: 25 Gb
@@ -55,10 +57,10 @@
 
 <hr style="border:1px solid blue">
 
-  * Source: <a href="https://resources.marine.copernicus.eu/product-detail/OCEANCOLOUR_GLO_CHL_L4_REP_OBSERVATIONS_009_082/INFORMATION">CMEMS catalogue</a>
+  * Source: <a href="https://resources.marine.copernicus.eu/product-detail/OCEANCOLOUR_GLO_CHL_L4_REP_OBSERVATIONS_009_082">CMEMS catalogue</a>
   * Storage machine: jean-zay (IDRIS)
   * Directory : /gpfsstore/rech/egi/uzx13pp/Observations/OCEANCOLOUR_GLO_CHL_L4_REP_OBSERVATIONS_009_082
-  * Size: 
+  * Size: 34 Gb
 
 <hr style="border:1px solid blue">
 </details>
