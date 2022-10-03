@@ -8,7 +8,7 @@
   * By: Jean-Michel Brankart
   * Storage machine: jean-zay (IDRIS)
   * Directory : /gpfswork/rech/egi/regi700/Aviso10
-  * Size: 11 Go
+  * Size: 11 Gb
   * Observations used: along-track satellite observations.
   * Inversion method: MCMC sampler.
 
