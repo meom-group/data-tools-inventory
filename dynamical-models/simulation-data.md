@@ -19,6 +19,37 @@
 
 ## Basin-scale simulations
 
+
+<details>
+  <summary><strong>extended North Atlantic (eNATL60) twin experiments with and without tide forcings (July 2009 - June 2010) </strong></summary>
+
+<hr style="border:1px solid blue">
+
+  * By: Laurent Brodeau
+  * Project: ReSuMPTiOn (PRACE)
+  * Storage machine: occigen (CINES)
+  * Directory : /store/CT1/hmg2840/lbrodeau/eNATL60
+  * Size: 1,4 Pb
+  * More details in <a href="https://github.com/ocean-next/eNATL60"> eNATL60 github repo</a>
+
+<hr style="border:1px solid blue">
+</details>
+
+
+<details>
+  <summary><strong>North Atlantic (NATL60) (June 2012 - October 2013) </strong></summary>
+
+<hr style="border:1px solid blue">
+
+  * By: Jean-Marc Molines
+  * Project: H2O (Grand Défi GENCI-CINES)
+  * Storage machine: occigen (CINES)
+  * Directory : /store/molines/NATL60/NATL60-CJM165-S
+  * Size: 38 Tb
+  * More details in <a href="https://cloud.univ-grenoble-alpes.fr/s/27jmG2x5Drz3EpP"> NATL60 report</a>
+
+<hr style="border:1px solid blue">
+</details>
 ## Regional simulations
 
 <details>
