@@ -9,6 +9,7 @@
 
   * By: Mikhail Popov
   * Project: SEAMLESS
+  * Model: NEMO-PISCES
   * Storage machine: jean-zay (IDRIS)
   * Directory : /gpfsstore/rech/egi/uzx13pp/Ensembles
   * Size: 34 Tb
@@ -19,6 +20,21 @@
 
 ## Basin-scale simulations
 
+<details>
+  <summary><strong>Tropical Pacific Ocean (TROPICO12) twin experiments with and without tide forcings w AGRIF zoom on New Caledonia (CALEDO60) (2012 - 2018) </strong></summary>
+
+<hr style="border:1px solid blue">
+
+  * By: Laurent Brodeau
+  * Project: SWOT-Nouvelle Calédonie 
+  * Model: NEMO-LIM3
+  * Storage machine: occigen (CINES)
+  * Directory : /store/brodeau/TROPICO12
+  * Size: 148 Tb
+  * More details in <a href="https://cloud.univ-grenoble-alpes.fr/s/27jmG2x5Drz3EpP"> NATL60 report</a>
+
+<hr style="border:1px solid blue">
+</details>
 
 <details>
   <summary><strong>extended North Atlantic (eNATL60) twin experiments with and without tide forcings (July 2009 - June 2010) </strong></summary>
@@ -27,6 +43,7 @@
 
   * By: Laurent Brodeau
   * Project: ReSuMPTiOn (PRACE)
+  * Model: NEMO-LIM3
   * Storage machine: occigen (CINES)
   * Directory : /store/CT1/hmg2840/lbrodeau/eNATL60
   * Size: 1,4 Pb
@@ -43,6 +60,7 @@
 
   * By: Jean-Marc Molines
   * Project: H2O (Grand Défi GENCI-CINES)
+  * Model: NEMO-LIM3
   * Storage machine: occigen (CINES)
   * Directory : /store/molines/NATL60/NATL60-CJM165-S
   * Size: 38 Tb
@@ -61,6 +79,7 @@
 
   * By: Stéphanie Leroux
   * Project: IMMERSE
+  * Model: NEMO
   * Storage machine: jean-zay (IDRIS)
   * Directory : /gpfsstore/rech/egi/commun/MEDWEST60
   * Size: 75 Tb
