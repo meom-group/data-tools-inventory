@@ -19,6 +19,20 @@
 
 <hr style="border:1px solid blue">  
 </details>
+<details>
+  <summary><strong>L3 product (along track j1, j2, j3 and tp), from CMEMS in  feed back format</a> </strong></summary>
+
+<hr style="border:1px solid blue">
+
+  * Source: <a href="https://resources.marine.copernicus.eu/product-detail/SEALEVEL_GLO_PHY_L3_MY_008_062/INFORMATION">CMEMS catalogue</a>
+  * Storage machine: Jean-Zay
+  * Directory : /gpfsdsstore/projects/rech/cli/commun/DATASET/OBS/AVISO
+  * Size: 57 Gb
+  * Comment: This data set is ready to use with NEMO OBS operator. It concerns jason1, jason2, jason3 and TOPEX/Poseidon satelites.
+
+<hr style="border:1px solid blue">
+</details>
+
 
 <details>
   <summary><strong>L4 product (mapped, daily), from CMEMS catalogue (years 1993-2020)</a> </strong></summary>
