@@ -16,7 +16,9 @@
   * More details in SEAMLESS deliverable 3.4.
 
 <hr style="border:1px solid blue">
+</details>
 
+<details>
   <summary><strong>eORCA025.L75 WP1 IMHOTEP simulations </strong></summary>
 
 <hr style="border:1px solid blue">
@@ -39,7 +41,9 @@
   * More details in IMHOTEP documentation
 
 <hr style="border:1px solid blue">
+</details>
 
+<details>
   <summary><strong>eORCA025.L75 WP2 IMHOTEP 10-member ensemble simulations </strong></summary>
 
 <hr style="border:1px solid blue">
@@ -61,7 +65,9 @@
   * More details in IMHOTEP documentation
 
 <hr style="border:1px solid blue">
+</details>
 
+<details>
   <summary><strong>ORCA025.L75 OCCIPUT 50-member ensemble simulations </strong></summary>
 
 <hr style="border:1px solid blue">
@@ -78,7 +84,9 @@
   * More details in OCCIPUT documentation
 
 <hr style="border:1px solid blue">
+</details>
 
+<details>
   <summary><strong>eORCA12.L75-GJM2020 forced by JRA55 </strong></summary>
 
 <hr style="border:1px solid blue">
